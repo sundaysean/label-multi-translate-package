@@ -1,0 +1,19 @@
+{
+    "name": "kravanh/label-multi-translate",
+    "description": "This Can Translate Label For Multi-Languages",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "KRAVANH",
+            "email": "seansunday@kravanh.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "KRAVANH\\LabelMultiTranslate\\": "src/"
+        }
+    }
+}
